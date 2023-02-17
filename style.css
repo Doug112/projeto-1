@@ -1,0 +1,99 @@
+* {  
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+
+
+body {
+    background-color: #E5E5E5;
+    margin-bottom: 207pz;
+}
+
+header{
+    margin-top:auto;
+}
+
+header img {
+        width: 100%;  
+        border-radius: 50%;
+      
+}
+     
+
+header div {
+   width: 200px;
+   height: 200px;
+    margin: auto;
+    border: 5px solid #BB99DD;
+    border-radius: 50%;
+    display: flex;
+    padding: 10px;
+    
+}
+
+header div :hover{
+    scale: 1.1;
+}
+
+#stand{
+    margin-top:80px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+  ul#stand li {
+
+    align-items: center;
+    display: flex;
+    padding: 41pxx;
+    border: 1px solid ; 
+    width: 326px ;
+    height: 49px;
+    align-items: center;
+    justify-content: center;
+    margin:0  auto 20px auto;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #BB99DD;
+    text-transform: uppercase;
+}
+
+ a {
+    text-decoration: none;
+}
+section div{
+    padding-top: px;
+} 
+#linkclick:hover {
+  scale: 1.1;
+}
+
+
+.combat {
+    display: flex;
+    justify-content: center;
+  
+}
+ol {
+    display: flex;
+    list-style: none;
+    
+}
+ol li{
+    margin-right:29px  ;
+}
+
+ol li:hover {
+    scale: 1.1;
+}
+  #instituto{
+    justify-content: center;
+    align-items: end
+    border 1px solid red;
+    }
+
